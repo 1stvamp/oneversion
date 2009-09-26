@@ -1,9 +1,12 @@
 OneVersion refers to my (Wesley Mason :: http://1stvamp.org/) freelance trading
 name, 1v Software (One Version Software).
 This repo is for bits and pieces I collect over time (and over the years if I
-delve back into my archive off code) that don't necessarily warrant their own
+delve back into my archive of code) that don't necessarily warrant their own
 project repo.
 
+python/ - smaller python projects I'm working on as I move to python from PHP
+python/memorised/ - memorised module, containing the memorise decorator, quickly
+and simply add memcache caching to any function or method.
 
 delete_old_emails.php - quick & dirty shell script written in PHP to connect to
 an IMAP box and delete any emails older than a set period of days.
